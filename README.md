@@ -1,7 +1,7 @@
 # Project_Diabetes_Prediction
 A brief description of what this project does:
 
-Description: 
+ 
 
 In this project, we aim to analyze diabetes data and address some important business problems/questions.
 
