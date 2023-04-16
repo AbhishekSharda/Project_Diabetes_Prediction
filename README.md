@@ -1,5 +1,5 @@
 # Project_Diabetes_Prediction
-A brief description of what this project does:
+A brief description of what this project is about:
 
  
 
